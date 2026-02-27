@@ -6,7 +6,7 @@ A Kanban-style task management app built with plain HTML, CSS, and Vanilla JavaS
 
 ## Live Demo
 
-[View on GitHub Pages](https://YOUR-USERNAME.github.io/smart-task-manager/)
+[View on GitHub Pages](https://bscs2232.github.io/smart-task-manager/)
 
 ---
 
@@ -57,44 +57,4 @@ smart-task-manager/
 - Separation of concerns (MVC-style structure)
 
 ---
-
-## How to Run Locally
-
-> You need a local server because of ES6 modules. Opening index.html directly won't work.
-
-**Option 1 — VS Code Live Server (easiest)**
-1. Install the "Live Server" extension by Ritwick Dey
-2. Open the project folder in VS Code
-3. Right-click `index.html` → Open with Live Server
-
-**Option 2 — Python**
-```bash
-python -m http.server 8080
-```
-
-**Option 3 — Node.js**
-```bash
-npx serve .
-```
-
-Then open `http://localhost:8080` in your browser.
-
----
-
-## Deploy to GitHub Pages
-
-```bash
-git init
-git add .
-git commit -m "initial commit"
-git remote add origin https://github.com/YOUR-USERNAME/smart-task-manager.git
-git push -u origin main
-```
-
-Then go to: **Settings → Pages → Source → Deploy from branch → main → Save**
-
----
-
-## Author
-
-Built by [Your Name] — [GitHub](https://github.com/YOUR-USERNAME)
+Built by [Muhammad Huzaifa Bilal] — [GitHub](https://github.com/bscs2232)
